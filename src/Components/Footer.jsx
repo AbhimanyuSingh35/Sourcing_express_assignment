@@ -3,10 +3,7 @@ import Button from "./Button";
 function Footer() {
   return (
     <footer className="flex flex-col items-center justify-center w-full px-8 py-8 text-center bg-[#E7ECFF] text-white"
-      style={{
-        width: "1500px",
-        height: "216px"
-      }}
+     
     >
       <div className="flex justify-between items-center w-full max-w-[1440px] px-36 mx-auto">
            <p className="text-sm text-[#939EA4]">&copy;2023 Yourcompany</p>
