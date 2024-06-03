@@ -7,8 +7,8 @@ import Frame2 from "./Components/Frame2"
 import undrawImage from "./assets/undraw.svg"
 import mobileImage from "./assets/mobile.svg"
 import flowerImage from "./assets/flower.svg"
-import Button from "./Components/Button"
-import Frame3 from "./Components/frame3"
+import Frame3 from "./Components/Frame3"
+
 import Pricing from "./Components/Pricing"
 import Footer from "./Components/Footer"
 function App() {
@@ -38,7 +38,7 @@ function App() {
     <Frame1></Frame1>
     <Frame2 image={undrawImage} ></Frame2>
     <Frame2 image={mobileImage} ></Frame2>
-    <Frame3 image={flowerImage} ></Frame3>
+    <Frame3 image={flowerImage} ></Frame3> 
     <Pricing></Pricing>
     <Footer></Footer>
 
