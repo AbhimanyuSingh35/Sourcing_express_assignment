@@ -12,7 +12,9 @@ module.exports = {
         custom:{
           blue:"#505F98",
           darkBlue:"#37447E",
-          textBlue:"#091133"
+          textBlue:"#091133",
+          paraBlue:"background: #6F7CB2",
+          
         },
         
         },

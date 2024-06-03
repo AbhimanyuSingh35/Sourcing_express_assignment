@@ -4,7 +4,7 @@ function Nav() {
   return (
     <nav className="flex items-center justify-between w-full px-4 py-2 bg-white sm:px-8 md:px-16 lg:px-24 xl:px-32">
       <div className="flex space-x-4 ml-4 group-links">
-        <a href="#" className="block py-2 px-4 text-custom-blue rounded hover:bg-gray-100">
+        <a href="#" className="block py-2 px-4 text-custom-blue rounded hover:bg-gray-100 hover:text-gray-700">
           Home
         </a>
         <a href="#" className="block py-2 px-4 text-custom-blue rounded hover:bg-gray-100">
