@@ -22,7 +22,7 @@ function Pricing() {
         dis parturient montes, nascetur ridiculus mus.
       </p>
 
-      <div className="mt-6 mb-16">
+      <div className="mt-6 mb-16 w-full lg:w-auto">
         <span className="text-6xl font-bold">$40</span>
         <p className="text-gray-600 text-center">UI Design Kit</p>
       </div>
@@ -39,3 +39,4 @@ function Pricing() {
 }
 
 export default Pricing;
+
